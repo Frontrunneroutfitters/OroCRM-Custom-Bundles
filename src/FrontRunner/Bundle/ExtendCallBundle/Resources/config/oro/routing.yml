@@ -1,0 +1,4 @@
+frontrunner_parent_bundle:
+    resource: "@!OroCRMCallBundle/Controller"
+    type:     annotation
+    prefix:   /call

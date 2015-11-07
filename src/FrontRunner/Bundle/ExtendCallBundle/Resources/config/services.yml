@@ -1,0 +1,7 @@
+parameters:
+    orocrm_call.call.entity.class:                  FrontRunner\Bundle\ExtendCallBundle\Entity\Call
+
+services:
+#    front_runner_extend_call.example:
+#        class: FrontRunner\Bundle\ExtendCallBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]

@@ -1,0 +1,3 @@
+# src/FrontRunner/Bundle/ExtendCallBundle/Resources/config/oro/bundles.yml
+bundles:
+    - { name: FrontRunner\Bundle\ExtendCallBundle\FrontRunnerExtendCallBundle, priority: 29 }

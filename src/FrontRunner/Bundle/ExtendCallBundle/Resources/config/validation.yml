@@ -1,0 +1,18 @@
+FrontRunner\Bundle\ExtendCallBundle\Entity\Call:
+    properties:
+        subject:
+            - NotBlank: ~
+            - Length:
+                max: 255
+        callDateTime:
+            - DateTime: ~
+        callStatus:
+            - NotBlank: ~
+#        direction:
+#            - NotBlank: ~
+#        phoneNumber:
+#            - NotBlank: ~
+#            - Length:
+#                max: 255
+        organization:
+            - NotBlank: ~

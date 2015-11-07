@@ -1,0 +1,2 @@
+parameters:
+    orocrm_call.call.form.type.class:         FrontRunner\Bundle\ExtendCallBundle\Form\Type\CallType
